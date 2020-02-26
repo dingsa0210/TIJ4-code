@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68f86bec-8b55-49bb-b88d-212d403ba2dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/examples/access/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/Cake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/ChocolateChip.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/ChocolateChip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/ChocolateChip2.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/ChocolateChip2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/Dinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/Dinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/FullQualification.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/FullQualification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/IceCream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/ImportedMyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/ImportedMyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/LibTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/LibTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/Lunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/Lunch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/OrganizedByAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/OrganizedByAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/Pie.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/Pie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/PrintTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/PrintTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/QualifiedMyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/QualifiedMyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/access/SingleImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/access/SingleImport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/concurrency/BankTellerSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/concurrency/BankTellerSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/concurrency/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/concurrency/CarBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/concurrency/DelayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/concurrency/DelayQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/concurrency/InterruptingIdiom.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/concurrency/InterruptingIdiom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/concurrency/Pool.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/concurrency/Pool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/concurrency/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/concurrency/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/containers/SetPerformance.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/containers/SetPerformance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/containers/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/containers/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/containers/TestParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/containers/TestParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/containers/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/containers/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/enumerated/SpaceShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/enumerated/SpaceShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/Apply.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/Apply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/BasicHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/BasicHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/ClassTypeCapture.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/ClassTypeCapture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/CovariantArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/CovariantArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/CovariantReturnTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/CovariantReturnTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/DogsAndRobots.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/DogsAndRobots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/GenericReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/GenericReading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/GenericVarargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/GenericVarargs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/InstantiateGenericType.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/InstantiateGenericType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/Performs.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/Performs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/SimpleQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/SimpleQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/UnboundedWildcards1.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/UnboundedWildcards1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/Unconstrained.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/Unconstrained.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/generics/UseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/generics/UseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gui/GridLayout1.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/gui/GridLayout1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gui/InterruptableLongRunningTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/gui/InterruptableLongRunningTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/holding/ApplesAndOrangesWithoutGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/holding/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/initialization/PassingThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/initialization/PassingThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/initialization/Spoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/initialization/Spoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/initialization/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/initialization/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/innerclasses/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/innerclasses/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/innerclasses/LocalInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/innerclasses/LocalInnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/interfaces/Factories.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/interfaces/Factories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/io/MyWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/io/MyWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/io/StoreCADState.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/io/StoreCADState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/operators/EqualsMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/operators/EqualsMethod2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/operators/HelloDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/operators/HelloDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/polymorphism/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/polymorphism/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/reusing/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/reusing/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/reusing/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/reusing/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/reusing/FinalData.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/reusing/FinalData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/swt/ColorBoxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/swt/ColorBoxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/swt/DisplayEnvironment.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/swt/DisplayEnvironment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/swt/Menus.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/swt/Menus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/swt/SineWave.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/swt/SineWave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/swt/TabbedPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/swt/TabbedPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/typeinfo/ClassCasts.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/typeinfo/ClassCasts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/typeinfo/FilledList.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/typeinfo/FilledList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/typeinfo/InterfaceViolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/typeinfo/InterfaceViolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/typeinfo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/typeinfo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/xml/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/xml/Person.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/net/mindview/atunit/AtUnitRemover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/xml/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/swt/Menus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/swt/SineWave.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/swt/TabbedPane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#4914#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/swt/util/SWTApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/swt/util/SWTConsole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/swt/DisplayEnvironment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CBox</find>
+      <find>ClassPool</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/examples/reusing/Chess.java" />
+        <option value="$PROJECT_DIR$/examples/typeinfo/InterfaceViolation.java" />
+        <option value="$PROJECT_DIR$/examples/typeinfo/FilledList.java" />
+        <option value="$PROJECT_DIR$/examples/typeinfo/ClassCasts.java" />
+        <option value="$PROJECT_DIR$/examples/typeinfo/Person.java" />
+        <option value="$PROJECT_DIR$/examples/swt/SineWave.java" />
+        <option value="$PROJECT_DIR$/examples/innerclasses/Games.java" />
+        <option value="$PROJECT_DIR$/examples/innerclasses/LocalInnerClass.java" />
+        <option value="$PROJECT_DIR$/examples/interfaces/Factories.java" />
+        <option value="$PROJECT_DIR$/examples/polymorphism/Shapes.java" />
+        <option value="$PROJECT_DIR$/examples/operators/EqualsMethod2.java" />
+        <option value="$PROJECT_DIR$/examples/operators/HelloDate.java" />
+        <option value="$PROJECT_DIR$/examples/io/MyWorld.java" />
+        <option value="$PROJECT_DIR$/examples/io/StoreCADState.java" />
+        <option value="$PROJECT_DIR$/examples/initialization/PassingThis.java" />
+        <option value="$PROJECT_DIR$/examples/initialization/Spoon.java" />
+        <option value="$PROJECT_DIR$/examples/initialization/VarArgs.java" />
+        <option value="$PROJECT_DIR$/examples/holding/ApplesAndOrangesWithoutGenerics.java" />
+        <option value="$PROJECT_DIR$/examples/gui/InterruptableLongRunningTask.java" />
+        <option value="$PROJECT_DIR$/examples/generics/Apply.java" />
+        <option value="$PROJECT_DIR$/examples/containers/SetPerformance.java" />
+        <option value="$PROJECT_DIR$/examples/concurrency/BankTellerSimulation.java" />
+        <option value="$PROJECT_DIR$/examples/concurrency/CarBuilder.java" />
+        <option value="$PROJECT_DIR$/examples/concurrency/DelayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/examples/concurrency/InterruptingIdiom.java" />
+        <option value="$PROJECT_DIR$/examples/concurrency/Pool.java" />
+        <option value="$PROJECT_DIR$/examples/concurrency/Tester.java" />
+        <option value="$PROJECT_DIR$/examples/generics/SimpleQueue.java" />
+        <option value="$PROJECT_DIR$/examples/containers/Test.java" />
+        <option value="$PROJECT_DIR$/examples/containers/TestParam.java" />
+        <option value="$PROJECT_DIR$/examples/containers/Tester.java" />
+        <option value="$PROJECT_DIR$/examples/generics/ClassTypeCapture.java" />
+        <option value="$PROJECT_DIR$/examples/generics/CovariantReturnTypes.java" />
+        <option value="$PROJECT_DIR$/examples/generics/DogsAndRobots.java" />
+        <option value="$PROJECT_DIR$/examples/generics/GenericVarargs.java" />
+        <option value="$PROJECT_DIR$/examples/generics/InstantiateGenericType.java" />
+        <option value="$PROJECT_DIR$/examples/generics/UnboundedWildcards1.java" />
+        <option value="$PROJECT_DIR$/examples/generics/Unconstrained.java" />
+        <option value="$PROJECT_DIR$/examples/generics/BasicHolder.java" />
+        <option value="$PROJECT_DIR$/examples/generics/UseList.java" />
+        <option value="$PROJECT_DIR$/examples/xml/Person.java" />
+        <option value="$PROJECT_DIR$/examples/generics/Performs.java" />
+        <option value="$PROJECT_DIR$/examples/generics/GenericReading.java" />
+        <option value="$PROJECT_DIR$/examples/generics/CovariantArrays.java" />
+        <option value="$PROJECT_DIR$/examples/net/mindview/atunit/AtUnitRemover.java" />
+        <option value="$PROJECT_DIR$/examples/swt/Menus.java" />
+        <option value="$PROJECT_DIR$/examples/swt/DisplayEnvironment.java" />
+        <option value="$PROJECT_DIR$/examples/swt/TabbedPane.java" />
+        <option value="$PROJECT_DIR$/examples/gui/GridLayout1.java" />
+        <option value="$PROJECT_DIR$/examples/swt/ColorBoxes.java" />
+        <option value="$PROJECT_DIR$/examples/swt/ColorBoxes_.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\.m2\repository" />
+        <option name="userSettingsFile" value="D:\maven\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TIJ4-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIJ4-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIJ4-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIJ4-code" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIJ4-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIJ4-code" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIJ4-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582702949634" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/org.eclipse.swt.win32.win32.x86-4.3.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Cake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access.Cake" />
+      <module name="TIJ4-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cake" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f86bec-8b55-49bb-b88d-212d403ba2dc" name="Default Changelist" comment="" />
+      <created>1582696255725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582696255725</updated>
+      <workItem from="1582696259740" duration="5941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5941000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17828418" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.4206799" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/innerclasses/LocalInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/interfaces/Factories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/polymorphism/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/operators/EqualsMethod2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/operators/HelloDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/io/MyWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/io/StoreCADState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/initialization/PassingThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/initialization/Spoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/initialization/VarArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/gui/InterruptableLongRunningTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/concurrency/BankTellerSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/concurrency/CarBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/concurrency/DelayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/concurrency/InterruptingIdiom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/concurrency/Pool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/concurrency/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/SimpleQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/containers/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/containers/TestParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/containers/SetPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/containers/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/ClassTypeCapture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/CovariantReturnTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/GenericVarargs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/InstantiateGenericType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/UnboundedWildcards1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/BasicHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/annotations/database/TableCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/Unconstrained.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/UseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/Performs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/Apply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/holding/ApplesAndOrangesWithoutGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/GenericReading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/CovariantArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/generics/DogsAndRobots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/annotations/database/TableCreationProcessorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/net/mindview/atunit/AtUnitRemover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swt/DisplayEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swt/Menus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swt/TabbedPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#4914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/xml/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swt/SineWave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/gui/GridLayout1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swt/util/SWTApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swt/ColorBoxes_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swt/ColorBoxes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/TIJ4-code.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/swt/util/SWTConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TIJ4-code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
