@@ -1,3 +1,4 @@
+package io;
 //: io/DirList3.java
 // Building the anonymous inner class "in-place."
 // {Args: "D.*\.java"}

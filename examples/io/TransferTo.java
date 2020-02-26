@@ -1,3 +1,4 @@
+package io;
 //: io/TransferTo.java
 // Using transferTo() between channels
 // {Args: TransferTo.java TransferTo.txt}

@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/IceCream.java
 // Returning arrays from methods.
 import java.util.*;

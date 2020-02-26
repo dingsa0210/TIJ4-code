@@ -1,6 +1,7 @@
 //: strings/InfiniteRecursion.java
 // Accidental recursion.
 // {RunByHand}
+package strings;
 import java.util.*;
 
 public class InfiniteRecursion {

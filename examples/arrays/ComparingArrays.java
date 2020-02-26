@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/ComparingArrays.java
 // Using Arrays.equals()
 import java.util.*;

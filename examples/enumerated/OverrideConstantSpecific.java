@@ -1,3 +1,4 @@
+package enumerated;
 //: enumerated/OverrideConstantSpecific.java
 import static net.mindview.util.Print.*;
 

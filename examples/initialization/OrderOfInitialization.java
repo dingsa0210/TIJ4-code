@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/OrderOfInitialization.java
 // Demonstrates initialization order.
 import static net.mindview.util.Print.*;

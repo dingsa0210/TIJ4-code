@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/Parcel2.java
 // Returning a reference to an inner class.
 

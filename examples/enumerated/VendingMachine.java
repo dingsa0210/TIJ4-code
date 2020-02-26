@@ -1,6 +1,7 @@
+package enumerated;
 //: enumerated/VendingMachine.java
 // {Args: VendingMachineInput.txt}
-package enumerated;
+
 import java.util.*;
 import net.mindview.util.*;
 import static enumerated.Input.*;

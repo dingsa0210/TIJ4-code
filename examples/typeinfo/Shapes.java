@@ -1,3 +1,4 @@
+package typeinfo;
 //: typeinfo/Shapes.java
 import java.util.*;
 

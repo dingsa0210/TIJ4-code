@@ -1,4 +1,6 @@
+package concurrency;
 //: concurrency/PriorityBlockingQueueDemo.java
+
 import java.util.concurrent.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

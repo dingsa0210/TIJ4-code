@@ -1,5 +1,6 @@
 //: holding/QueueDemo.java
 // Upcasting to a Queue from a LinkedList.
+package holding;
 import java.util.*;
 
 public class QueueDemo {

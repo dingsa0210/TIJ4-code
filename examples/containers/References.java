@@ -1,3 +1,4 @@
+package containers;
 //: containers/References.java
 // Demonstrates Reference objects
 import java.lang.ref.*;

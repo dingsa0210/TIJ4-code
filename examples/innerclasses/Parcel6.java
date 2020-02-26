@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/Parcel6.java
 // Nesting a class within a scope.
 

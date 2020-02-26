@@ -1,6 +1,7 @@
 //: strings/TestRegularExpression.java
 // Allows you to easily try out regular expressions.
 // {Args: abcabcabcdefabc "abc+" "(abc)+" "(abc){2,}" }
+package strings;
 import java.util.regex.*;
 import static net.mindview.util.Print.*;
 

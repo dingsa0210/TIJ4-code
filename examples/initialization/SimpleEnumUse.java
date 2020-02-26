@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/SimpleEnumUse.java
 
 public class SimpleEnumUse {

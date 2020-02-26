@@ -1,4 +1,5 @@
 //: generics/ExplicitTypeSpecification.java
+package generics;
 import typeinfo.pets.*;
 import java.util.*;
 import net.mindview.util.*;

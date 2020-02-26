@@ -1,3 +1,4 @@
+package gui;
 //: gui/ShowAddListeners.java
 // Display the "addXXXListener" methods of any Swing class.
 import javax.swing.*;

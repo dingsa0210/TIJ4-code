@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/ExtraFeatures.java
 // Further embellishment of exception classes.
 import static net.mindview.util.Print.*;

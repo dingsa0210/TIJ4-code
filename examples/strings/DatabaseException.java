@@ -1,5 +1,5 @@
 //: strings/DatabaseException.java
-
+package strings;
 public class DatabaseException extends Exception {
   public DatabaseException(int transactionID, int queryID,
     String message) {

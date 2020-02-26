@@ -1,4 +1,7 @@
 //: generics/NeedCasting.java
+package generics;
+import org.eclipse.swt.widgets.Widget;
+
 import java.io.*;
 import java.util.*;
 

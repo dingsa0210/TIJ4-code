@@ -1,3 +1,4 @@
+package gui;
 //: gui/TextPane.java
 // The JTextPane control is a little editor.
 import javax.swing.*;

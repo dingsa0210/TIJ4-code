@@ -1,5 +1,6 @@
-//: enumerated/Input.java
 package enumerated;
+//: enumerated/Input.java
+
 import java.util.*;
 
 public enum Input {

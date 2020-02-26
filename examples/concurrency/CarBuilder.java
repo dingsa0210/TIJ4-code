@@ -1,6 +1,6 @@
+package concurrency;
 //: concurrency/CarBuilder.java
 // A complex example of tasks working together.
-package concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

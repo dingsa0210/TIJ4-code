@@ -1,3 +1,4 @@
+package io;
 //: io/SerialCtl.java
 // Controlling serialization by adding your own
 // writeObject() and readObject() methods.

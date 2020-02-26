@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/Parcel1.java
 // Creating inner classes.
 

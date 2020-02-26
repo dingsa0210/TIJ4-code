@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/Spiciness.java
 
 public enum Spiciness {

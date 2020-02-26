@@ -1,3 +1,4 @@
+package interfaces;
 //: interfaces/RandomDoubles.java
 import java.util.*;
 

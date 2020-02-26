@@ -1,6 +1,7 @@
+package gui;
 //: gui/InterruptableLongRunningTask.java
 // Long-running tasks in threads.
-package gui;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/FinallyWorks.java
 // The finally clause is always executed.
 

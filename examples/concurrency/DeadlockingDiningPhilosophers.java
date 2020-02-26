@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/DeadlockingDiningPhilosophers.java
 // Demonstrates how deadlock can be hidden in a program.
 // {Args: 0 5 timeout}

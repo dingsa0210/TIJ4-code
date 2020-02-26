@@ -1,3 +1,4 @@
+package containers;
 //: containers/Bits.java
 // Demonstration of BitSet.
 import java.util.*;

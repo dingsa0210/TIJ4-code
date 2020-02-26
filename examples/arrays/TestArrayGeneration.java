@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/TestArrayGeneration.java
 // Test the tools that use generators to fill arrays.
 import java.util.*;

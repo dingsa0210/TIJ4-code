@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/RaggedArray.java
 import java.util.*;
 

@@ -1,3 +1,4 @@
+package operators;
 //: operators/ShortCircuit.java
 // Demonstrates short-circuiting behavior
 // with logical operators.

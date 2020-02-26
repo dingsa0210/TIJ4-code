@@ -1,6 +1,7 @@
+package containers;
 //: containers/Test.java
 // Framework for performing timed tests of containers.
-package containers;
+
 public abstract class Test<C> {
   String name;
   public Test(String name) { this.name = name; }

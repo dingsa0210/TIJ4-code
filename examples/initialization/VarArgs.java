@@ -1,6 +1,6 @@
+package initialization;
 //: initialization/VarArgs.java
 // Using array syntax to create variable argument lists.
-package initialization;
 class A {}
 
 public class VarArgs {

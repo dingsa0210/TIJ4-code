@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/Parcel5.java
 // Nesting a class within a method.
 

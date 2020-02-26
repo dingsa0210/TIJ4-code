@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/Philosopher.java
 // A dining philosopher
 import java.util.concurrent.*;

@@ -1,3 +1,4 @@
+package control;
 //: control/WhileTest.java
 // Demonstrates the while loop.
 

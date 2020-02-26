@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/ExceptionSilencer.java
 
 public class ExceptionSilencer {

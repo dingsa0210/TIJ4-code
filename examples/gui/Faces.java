@@ -1,3 +1,4 @@
+package gui;
 //: gui/Faces.java
 // Icon behavior in JButtons.
 import javax.swing.*;

@@ -1,4 +1,5 @@
 //: annotations/PasswordUtils.java
+package annotations;
 import java.util.*;
 
 public class PasswordUtils {

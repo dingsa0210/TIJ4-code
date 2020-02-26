@@ -1,3 +1,4 @@
+package containers;
 //: containers/StringHashCode.java
 
 public class StringHashCode {

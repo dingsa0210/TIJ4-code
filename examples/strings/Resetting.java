@@ -1,4 +1,5 @@
 //: strings/Resetting.java
+package strings;
 import java.util.regex.*;
 
 public class Resetting {

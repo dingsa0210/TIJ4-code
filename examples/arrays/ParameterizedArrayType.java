@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/ParameterizedArrayType.java
 
 class ClassParameter<T> {

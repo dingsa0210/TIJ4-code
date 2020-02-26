@@ -1,3 +1,4 @@
+package containers;
 //: containers/CollectionMethods.java
 // Things you can do with all Collections.
 import java.util.*;

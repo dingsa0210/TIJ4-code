@@ -1,5 +1,6 @@
 //: holding/IterableClass.java
 // Anything Iterable works with foreach.
+package holding;
 import java.util.*;
 
 public class IterableClass implements Iterable<String> {

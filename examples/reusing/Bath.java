@@ -1,5 +1,6 @@
 //: reusing/Bath.java
 // Constructor initialization with composition.
+package reusing;
 import static net.mindview.util.Print.*;
 
 class Soap {

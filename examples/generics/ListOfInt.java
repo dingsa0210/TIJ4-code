@@ -1,6 +1,7 @@
 //: generics/ListOfInt.java
 // Autoboxing compensates for the inability to use
 // primitives in generics.
+package generics;
 import java.util.*;
 
 public class ListOfInt {

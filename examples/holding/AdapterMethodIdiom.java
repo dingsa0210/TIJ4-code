@@ -1,6 +1,7 @@
 //: holding/AdapterMethodIdiom.java
 // The "Adapter Method" idiom allows you to use foreach
 // with additional kinds of Iterables.
+package holding;
 import java.util.*;
 
 class ReversibleArrayList<T> extends ArrayList<T> {

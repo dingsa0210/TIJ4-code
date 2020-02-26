@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/EnumOrder.java
 
 public class EnumOrder {

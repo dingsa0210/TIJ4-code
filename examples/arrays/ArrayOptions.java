@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/ArrayOptions.java
 // Initialization & re-assignment of arrays.
 import java.util.*;

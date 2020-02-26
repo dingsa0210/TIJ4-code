@@ -1,5 +1,6 @@
 //: generics/Store.java
 // Building up a complex model using generic containers.
+package generics;
 import java.util.*;
 import net.mindview.util.*;
 

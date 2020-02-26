@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/MutexEvenGenerator.java
 // Preventing thread collisions with mutexes.
 // {RunByHand}

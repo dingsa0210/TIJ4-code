@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/Human.java
 // Catching exception hierarchies.
 

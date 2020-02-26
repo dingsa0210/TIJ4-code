@@ -1,3 +1,4 @@
+package operators;
 //: operators/Exponents.java
 // "e" means "10 to the power."
 

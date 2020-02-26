@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/NoSynthesis.java
 
 class Bird2 {

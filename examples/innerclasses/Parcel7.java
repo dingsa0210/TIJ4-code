@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/Parcel7.java
 // Returning an instance of an anonymous inner class.
 

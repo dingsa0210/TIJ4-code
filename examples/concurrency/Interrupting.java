@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/Interrupting.java
 // Interrupting a blocked thread.
 import java.util.concurrent.*;

@@ -1,3 +1,4 @@
+package typeinfo;
 //: typeinfo/WildcardClassReferences.java
 
 public class WildcardClassReferences {

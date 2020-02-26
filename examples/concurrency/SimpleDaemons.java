@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/SimpleDaemons.java
 // Daemon threads don't prevent the program from ending.
 import java.util.concurrent.*;

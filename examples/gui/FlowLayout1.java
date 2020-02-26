@@ -1,3 +1,4 @@
+package gui;
 //: gui/FlowLayout1.java
 // Demonstrates FlowLayout.
 import javax.swing.*;

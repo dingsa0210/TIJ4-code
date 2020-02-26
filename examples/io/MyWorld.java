@@ -1,5 +1,5 @@
-//: io/MyWorld.java
 package io;
+//: io/MyWorld.java
 import java.io.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

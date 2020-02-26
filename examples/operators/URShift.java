@@ -1,3 +1,4 @@
+package operators;
 //: operators/URShift.java
 // Test of unsigned right shift.
 import static net.mindview.util.Print.*;

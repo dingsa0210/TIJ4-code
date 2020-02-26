@@ -1,4 +1,5 @@
 //: strings/StartEnd.java
+package strings;
 import java.util.regex.*;
 import static net.mindview.util.Print.*;
 

@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/LoggingExceptions2.java
 // Logging caught exceptions.
 import java.util.logging.*;

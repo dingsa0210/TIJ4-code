@@ -1,3 +1,4 @@
+package polymorphism;
 //: polymorphism/StaticPolymorphism.java
 // Static methods are not polymorphic.
 

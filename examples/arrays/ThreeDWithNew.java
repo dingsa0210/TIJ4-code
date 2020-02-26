@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/ThreeDWithNew.java
 import java.util.*;
 

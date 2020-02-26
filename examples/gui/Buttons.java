@@ -1,3 +1,4 @@
+package gui;
 //: gui/Buttons.java
 // Various Swing buttons.
 import javax.swing.*;

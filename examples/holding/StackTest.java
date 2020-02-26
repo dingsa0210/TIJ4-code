@@ -1,4 +1,5 @@
 //: holding/StackTest.java
+package holding;
 import net.mindview.util.*;
 
 public class StackTest {

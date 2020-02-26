@@ -1,3 +1,4 @@
+package gui;
 //: gui/TextArea.java
 // Using the JTextArea control.
 import javax.swing.*;

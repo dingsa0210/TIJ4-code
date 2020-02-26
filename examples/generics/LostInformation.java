@@ -1,4 +1,5 @@
 //: generics/LostInformation.java
+package generics;
 import java.util.*;
 
 class Frob {}

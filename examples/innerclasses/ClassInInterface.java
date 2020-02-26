@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/ClassInInterface.java
 // {main: ClassInInterface$Test}
 

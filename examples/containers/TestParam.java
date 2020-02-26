@@ -1,6 +1,7 @@
+package containers;
 //: containers/TestParam.java
 // A "data transfer object."
-package containers;
+
 public class TestParam {
   public final int size;
   public final int loops;

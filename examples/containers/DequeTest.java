@@ -1,3 +1,4 @@
+package containers;
 //: containers/DequeTest.java
 import net.mindview.util.*;
 import static net.mindview.util.Print.*;

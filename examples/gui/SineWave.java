@@ -1,3 +1,4 @@
+package gui;
 //: gui/SineWave.java
 // Drawing with Swing, using a JSlider.
 import javax.swing.*;

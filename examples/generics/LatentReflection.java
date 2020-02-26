@@ -1,5 +1,6 @@
 //: generics/LatentReflection.java
 // Using Reflection to produce latent typing.
+package generics;
 import java.lang.reflect.*;
 import static net.mindview.util.Print.*;
 

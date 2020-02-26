@@ -1,3 +1,4 @@
+package enumerated;
 //: enumerated/UpcastEnum.java
 // No values() method if you upcast an enum
 

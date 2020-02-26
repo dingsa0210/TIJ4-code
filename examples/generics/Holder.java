@@ -1,5 +1,5 @@
 //: generics/Holder.java
-
+package generics;
 public class Holder<T> {
   private T value;
   public Holder() {}

@@ -1,3 +1,4 @@
+package io;
 //: io/LargeMappedFiles.java
 // Creating a very large file using mapping.
 // {RunByHand}

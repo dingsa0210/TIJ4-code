@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/NewVarArgs.java
 // Using array syntax to create variable argument lists.
 

@@ -1,3 +1,4 @@
+package io;
 //: io/Echo.java
 // How to read from standard input.
 // {RunByHand}

@@ -1,3 +1,4 @@
+package containers;
 //: containers/MapEntry.java
 // A simple Map.Entry for sample Map implementations.
 import java.util.*;

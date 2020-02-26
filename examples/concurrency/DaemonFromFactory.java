@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/DaemonFromFactory.java
 // Using a Thread Factory to create daemons.
 import java.util.concurrent.*;

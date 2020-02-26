@@ -1,3 +1,4 @@
+package control;
 //: control/LabeledFor.java
 // For loops with "labeled break" and "labeled continue."
 import static net.mindview.util.Print.*;

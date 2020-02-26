@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/MultiLock.java
 // One thread can reacquire the same lock.
 import static net.mindview.util.Print.*;

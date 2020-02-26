@@ -1,4 +1,5 @@
 //: holding/SimpleCollection.java
+package holding;
 import java.util.*;
 
 public class SimpleCollection {

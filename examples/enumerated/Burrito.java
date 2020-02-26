@@ -1,5 +1,6 @@
-//: enumerated/Burrito.java
 package enumerated;
+//: enumerated/Burrito.java
+
 import static enumerated.Spiciness.*;
 
 public class Burrito {

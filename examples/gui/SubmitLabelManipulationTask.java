@@ -1,3 +1,4 @@
+package gui;
 //: gui/SubmitLabelManipulationTask.java
 import javax.swing.*;
 import java.util.concurrent.*;

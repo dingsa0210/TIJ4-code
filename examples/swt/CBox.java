@@ -1,5 +1,6 @@
 //: swt/ColorBoxes.java
 // SWT translation of Swing ColorBoxes.java.
+package swt;
 import swt.util.*;
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;

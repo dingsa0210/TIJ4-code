@@ -1,3 +1,4 @@
+package gui;
 //: gui/FileChooserTest.java
 // Demonstration of File dialog boxes.
 import javax.swing.*;

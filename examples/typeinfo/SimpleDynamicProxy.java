@@ -1,3 +1,4 @@
+package typeinfo;
 //: typeinfo/SimpleDynamicProxy.java
 import java.lang.reflect.*;
 

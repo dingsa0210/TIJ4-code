@@ -1,4 +1,5 @@
 //: generics/UseList2.java
+package generics;
 import java.util.*;
 
 public class UseList2<W,T> {

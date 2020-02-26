@@ -1,5 +1,6 @@
 //: holding/AsListInference.java
 // Arrays.asList() makes its best guess about type.
+package holding;
 import java.util.*;
 
 class Snow {}

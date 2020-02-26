@@ -1,5 +1,6 @@
 //: generics/BankTeller.java
 // A very simple bank teller simulation.
+package generics;
 import java.util.*;
 import net.mindview.util.*;
 

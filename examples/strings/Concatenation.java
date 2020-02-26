@@ -1,5 +1,5 @@
 //: strings/Concatenation.java
-
+package strings;
 public class Concatenation {
   public static void main(String[] args) {
     String mango = "mango";

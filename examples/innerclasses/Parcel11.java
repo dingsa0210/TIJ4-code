@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/Parcel11.java
 // Nested classes (static inner classes).
 

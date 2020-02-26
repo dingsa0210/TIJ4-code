@@ -1,6 +1,7 @@
+package enumerated;
 //: enumerated/RoShamBo6.java
 // Enums using "tables" instead of multiple dispatch.
-package enumerated;
+
 import static enumerated.Outcome.*;
 
 enum RoShamBo6 implements Competitor<RoShamBo6> {

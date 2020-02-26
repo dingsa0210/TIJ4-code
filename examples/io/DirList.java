@@ -1,3 +1,4 @@
+package io;
 //: io/DirList.java
 // Display a directory listing using regular expressions.
 // {Args: "D.*\.java"}

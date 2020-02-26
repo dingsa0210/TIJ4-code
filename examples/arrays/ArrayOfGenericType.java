@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/ArrayOfGenericType.java
 // Arrays of generic types won't compile.
 

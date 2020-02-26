@@ -1,3 +1,4 @@
+package io;
 //: io/MakeDirectories.java
 // Demonstrates the use of the File class to
 // create directories and manipulate files.

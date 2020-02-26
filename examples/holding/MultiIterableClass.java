@@ -1,5 +1,6 @@
 //: holding/MultiIterableClass.java
 // Adding several Adapter Methods.
+package holding;
 import java.util.*;
 
 public class MultiIterableClass extends IterableClass {

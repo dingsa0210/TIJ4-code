@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/BigEgg2.java
 // Proper inheritance of an inner class.
 import static net.mindview.util.Print.*;

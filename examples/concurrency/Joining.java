@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/Joining.java
 // Understanding join().
 import static net.mindview.util.Print.*;

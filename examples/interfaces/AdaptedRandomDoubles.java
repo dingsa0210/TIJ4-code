@@ -1,3 +1,4 @@
+package interfaces;
 //: interfaces/AdaptedRandomDoubles.java
 // Creating an adapter with inheritance.
 import java.nio.*;

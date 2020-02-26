@@ -1,3 +1,4 @@
+package enumerated;
 //: enumerated/PostOffice.java
 // Modeling a post office.
 import java.util.*;

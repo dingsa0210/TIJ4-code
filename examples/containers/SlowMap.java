@@ -1,3 +1,4 @@
+package containers;
 //: containers/SlowMap.java
 // A Map implemented with ArrayLists.
 import java.util.*;

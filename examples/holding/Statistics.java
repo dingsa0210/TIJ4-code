@@ -1,5 +1,6 @@
 //: holding/Statistics.java
 // Simple demonstration of HashMap.
+package holding;
 import java.util.*;
 
 public class Statistics {

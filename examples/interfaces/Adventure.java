@@ -1,3 +1,4 @@
+package interfaces;
 //: interfaces/Adventure.java
 // Multiple interfaces.
 

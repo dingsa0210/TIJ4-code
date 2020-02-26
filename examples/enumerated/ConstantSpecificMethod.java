@@ -1,3 +1,4 @@
+package enumerated;
 //: enumerated/ConstantSpecificMethod.java
 import java.util.*;
 import java.text.*;

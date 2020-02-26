@@ -1,8 +1,9 @@
+package innerclasses;
 //: innerclasses/MultiImplementation.java
 // With concrete or abstract classes, inner
 // classes are the only way to produce the effect
 // of "multiple implementation inheritance."
-package innerclasses;
+
 
 class D {}
 abstract class E {}

@@ -1,3 +1,4 @@
+package interfaces;
 //: interfaces/RandVals.java
 // Initializing interface fields with
 // non-constant initializers.

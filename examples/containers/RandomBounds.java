@@ -1,3 +1,4 @@
+package containers;
 //: containers/RandomBounds.java
 // Does Math.random() produce 0.0 and 1.0?
 // {RunByHand}

@@ -1,6 +1,7 @@
+package typeinfo;
 //: typeinfo/FamilyVsExactType.java
 // The difference between instanceof and class
-package typeinfo;
+
 import static net.mindview.util.Print.*;
 
 class Base {}

@@ -1,5 +1,5 @@
 //: generics/OrdinaryArguments.java
-
+package generics;
 class OrdinarySetter {
   void set(Base base) {
     System.out.println("OrdinarySetter.set(Base)");

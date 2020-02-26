@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/FullConstructors.java
 
 class MyException extends Exception {

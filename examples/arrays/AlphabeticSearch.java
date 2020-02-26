@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/AlphabeticSearch.java
 // Searching with a Comparator.
 import java.util.*;

@@ -1,3 +1,4 @@
+package object;
 //: object/ShowProperties.java
 
 public class ShowProperties {

@@ -1,3 +1,4 @@
+package operators;
 //: operators/Bool.java
 // Relational and logical operators.
 import java.util.*;

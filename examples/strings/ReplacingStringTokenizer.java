@@ -1,4 +1,5 @@
 //: strings/ReplacingStringTokenizer.java
+package strings;
 import java.util.*;
 
 public class ReplacingStringTokenizer {

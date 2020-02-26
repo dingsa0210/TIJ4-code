@@ -1,6 +1,6 @@
 //: generics/Wildcards.java
 // Exploring the meaning of wildcards.
-
+package generics;
 public class Wildcards {
    // Raw argument:
   static void rawArgs(Holder holder, Object arg) {

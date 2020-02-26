@@ -1,3 +1,4 @@
+package typeinfo;
 //: typeinfo/BoundedClassReferences.java
 
 public class BoundedClassReferences {

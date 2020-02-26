@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/TestBed.java
 // Putting test code in a nested class.
 // {main: TestBed$Tester}

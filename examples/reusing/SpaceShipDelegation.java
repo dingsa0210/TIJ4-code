@@ -1,5 +1,5 @@
 //: reusing/SpaceShipDelegation.java
-
+package reusing;
 public class SpaceShipDelegation {
   private String name;
   private SpaceShipControls controls =

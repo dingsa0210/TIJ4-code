@@ -1,3 +1,4 @@
+package enumerated;
 //: enumerated/NonEnum.java
 
 public class NonEnum {

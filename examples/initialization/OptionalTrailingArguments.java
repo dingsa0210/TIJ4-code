@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/OptionalTrailingArguments.java
 
 public class OptionalTrailingArguments {

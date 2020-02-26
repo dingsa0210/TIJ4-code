@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/NaiveExceptionHandling.java
 // {ThrowsException}
 import java.util.concurrent.*;

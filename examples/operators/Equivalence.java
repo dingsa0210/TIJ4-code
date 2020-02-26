@@ -1,3 +1,4 @@
+package operators;
 //: operators/Equivalence.java
 
 public class Equivalence {

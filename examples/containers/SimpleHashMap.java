@@ -1,3 +1,4 @@
+package containers;
 //: containers/SimpleHashMap.java
 // A demonstration hashed Map.
 import java.util.*;

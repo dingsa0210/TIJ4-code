@@ -1,3 +1,4 @@
+package gui;
 //: gui/BeanDumper.java
 // Introspecting a Bean.
 import javax.swing.*;

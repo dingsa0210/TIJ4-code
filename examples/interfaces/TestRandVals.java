@@ -1,3 +1,4 @@
+package interfaces;
 //: interfaces/TestRandVals.java
 import static net.mindview.util.Print.*;
 

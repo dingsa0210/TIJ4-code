@@ -1,4 +1,5 @@
 //: strings/Splitting.java
+package strings;
 import java.util.*;
 
 public class Splitting {

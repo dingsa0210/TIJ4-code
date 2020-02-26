@@ -1,5 +1,6 @@
-//: typeinfo/ClassCasts.java
 package typeinfo;
+//: typeinfo/ClassCasts.java
+
 
 class Building {}
 class House extends Building {}

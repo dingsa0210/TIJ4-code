@@ -1,5 +1,6 @@
 //: reusing/PlaceSetting.java
 // Combining composition & inheritance.
+package reusing;
 import static net.mindview.util.Print.*;
 
 class Plate {

@@ -1,5 +1,6 @@
 //: reusing/Beetle.java
 // The full process of initialization.
+package reusing;
 import static net.mindview.util.Print.*;
 
 class Insect {

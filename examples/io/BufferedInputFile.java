@@ -1,3 +1,4 @@
+package io;
 //: io/BufferedInputFile.java
 import java.io.*;
 

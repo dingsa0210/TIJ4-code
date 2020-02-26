@@ -1,3 +1,4 @@
+package object;
 //: object/Documentation2.java
 /**
 * <pre>

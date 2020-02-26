@@ -1,3 +1,4 @@
+package control;
 //: control/LabeledWhile.java
 // While loops with "labeled break" and "labeled continue."
 import static net.mindview.util.Print.*;

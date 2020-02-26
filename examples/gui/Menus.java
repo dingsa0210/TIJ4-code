@@ -1,3 +1,4 @@
+package gui;
 //: gui/Menus.java
 // Submenus, check box menu items, swapping menus,
 // mnemonics (shortcuts) and action commands.

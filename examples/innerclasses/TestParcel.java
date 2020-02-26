@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/TestParcel.java
 
 class Parcel4 {

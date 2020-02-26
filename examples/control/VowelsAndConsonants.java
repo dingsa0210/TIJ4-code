@@ -1,3 +1,4 @@
+package control;
 //: control/VowelsAndConsonants.java
 // Demonstrates the switch statement.
 import java.util.*;

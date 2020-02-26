@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/EvenGenerator.java
 // When threads collide.
 

@@ -1,5 +1,7 @@
+package containers;
 //: containers/Utilities.java
 // Simple demonstrations of the Collections utilities.
+
 import java.util.*;
 import static net.mindview.util.Print.*;
 

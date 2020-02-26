@@ -1,3 +1,4 @@
+package interfaces;
 //: interfaces/Games.java
 // A Game framework using Factory Methods.
 import static net.mindview.util.Print.*;

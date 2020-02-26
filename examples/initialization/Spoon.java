@@ -1,5 +1,6 @@
-//: initialization/Spoon.java
 package initialization;
+//: initialization/Spoon.java
+
 public class Spoon {
   static int i;
   static {

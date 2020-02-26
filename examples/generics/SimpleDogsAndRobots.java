@@ -1,6 +1,6 @@
 //: generics/SimpleDogsAndRobots.java
 // Removing the generic; code still works.
-
+package generics;
 class CommunicateSimply {
   static void perform(Performs performer) {
     performer.speak();

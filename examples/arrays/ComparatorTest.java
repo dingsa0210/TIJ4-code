@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/ComparatorTest.java
 // Implementing a Comparator for a class.
 import java.util.*;

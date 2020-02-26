@@ -1,3 +1,4 @@
+package gui;
 //: gui/LongRunningTask.java
 // A badly designed program.
 import javax.swing.*;

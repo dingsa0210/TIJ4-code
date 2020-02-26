@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/GreenhouseControls.java
 // This produces a specific application of the
 // control system, all in a single class. Inner

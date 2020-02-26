@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/DefaultConstructor.java
 
 class Bird {}

@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/MultidimensionalObjectArrays.java
 import java.util.*;
 

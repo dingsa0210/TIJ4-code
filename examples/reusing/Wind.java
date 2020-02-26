@@ -1,6 +1,6 @@
 //: reusing/Wind.java
 // Inheritance & upcasting.
-
+package reusing;
 class Instrument {
   public void play() {}
   static void tune(Instrument i) {

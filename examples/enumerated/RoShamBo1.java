@@ -1,6 +1,6 @@
+package enumerated;
 //: enumerated/RoShamBo1.java
 // Demonstration of multiple dispatching.
-package enumerated;
 import java.util.*;
 import static enumerated.Outcome.*;
 

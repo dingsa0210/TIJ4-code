@@ -1,3 +1,4 @@
+package operators;
 //: operators/Precedence.java
 
 public class Precedence {

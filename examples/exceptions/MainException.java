@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/MainException.java
 import java.io.*;
 

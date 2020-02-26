@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/PrimitiveConversionDemonstration.java
 import java.util.*;
 import net.mindview.util.*;

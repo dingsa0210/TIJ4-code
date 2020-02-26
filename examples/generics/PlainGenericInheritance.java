@@ -1,5 +1,5 @@
 //: generics/PlainGenericInheritance.java
-
+package generics;
 class GenericSetter<T> { // Not self-bounded
   void set(T arg){
     System.out.println("GenericSetter.set(Base)");

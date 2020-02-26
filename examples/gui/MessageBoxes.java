@@ -1,3 +1,4 @@
+package gui;
 //: gui/MessageBoxes.java
 // Demonstrates JOptionPane.
 import javax.swing.*;

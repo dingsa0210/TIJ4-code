@@ -1,4 +1,5 @@
 //: generics/GenericWriting.java
+package generics;
 import java.util.*;
 
 public class GenericWriting {

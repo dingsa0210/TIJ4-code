@@ -1,5 +1,5 @@
 //: strings/SimpleFormat.java
-
+package strings;
 public class SimpleFormat {
   public static void main(String[] args) {
     int x = 5;

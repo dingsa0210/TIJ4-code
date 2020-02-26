@@ -1,3 +1,4 @@
+package innerclasses;
 //: innerclasses/Parcel8.java
 // Calling the base-class constructor.
 

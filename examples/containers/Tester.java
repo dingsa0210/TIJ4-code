@@ -1,6 +1,7 @@
+package containers;
 //: containers/Tester.java
 // Applies Test objects to lists of different containers.
-package containers;
+
 import java.util.*;
 
 public class Tester<C> {

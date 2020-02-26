@@ -1,3 +1,4 @@
+package object;
 //: object/Documentation3.java
 /**
 * You can <em>even</em> insert a list:

@@ -1,3 +1,4 @@
+package gui;
 //: gui/Button1.java
 // Putting buttons on a Swing application.
 import javax.swing.*;

@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/TerminationCondition.java
 // Using finalize() to detect an object that
 // hasn't been properly cleaned up.

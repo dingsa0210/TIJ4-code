@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/IntGenerator.java
 
 public abstract class IntGenerator {

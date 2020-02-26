@@ -1,4 +1,5 @@
 //: generics/ListMaker.java
+package generics;
 import java.util.*;
 
 public class ListMaker<T> {

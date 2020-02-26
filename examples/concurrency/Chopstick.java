@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/Chopstick.java
 // Chopsticks for dining philosophers.
 

@@ -1,4 +1,5 @@
 //: generics/GenericsAndCovariance.java
+package generics;
 import java.util.*;
 
 public class GenericsAndCovariance {

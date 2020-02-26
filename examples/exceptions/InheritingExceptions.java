@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/InheritingExceptions.java
 // Creating your own exceptions.
 

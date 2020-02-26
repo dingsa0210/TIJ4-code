@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/Demotion.java
 // Demotion of primitives and overloading.
 import static net.mindview.util.Print.*;

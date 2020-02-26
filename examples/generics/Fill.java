@@ -1,6 +1,7 @@
 //: generics/Fill.java
 // Generalizing the FilledList idea
 // {main: FillTest}
+package generics;
 import java.util.*;
 
 // Doesn't work with "anything that has an add()." There is

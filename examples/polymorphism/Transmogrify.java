@@ -1,3 +1,4 @@
+package polymorphism;
 //: polymorphism/Transmogrify.java
 // Dynamically changing the behavior of an object
 // via composition (the "State" design pattern).

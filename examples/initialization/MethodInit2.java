@@ -1,3 +1,4 @@
+package initialization;
 //: initialization/MethodInit2.java
 public class MethodInit2 {
   int i = f();

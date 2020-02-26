@@ -1,3 +1,4 @@
+package arrays;
 //: arrays/CopyingArrays.java
 // Using System.arraycopy()
 import java.util.*;

@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/SynchronizedEvenGenerator.java
 // Simplifying mutexes with the synchronized keyword.
 // {RunByHand}

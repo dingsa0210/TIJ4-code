@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/CleanupIdiom.java
 // Each disposable object must be followed by a try-finally
 

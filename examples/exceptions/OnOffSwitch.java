@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/OnOffSwitch.java
 // Why use finally?
 

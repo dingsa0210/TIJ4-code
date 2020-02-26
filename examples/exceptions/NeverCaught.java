@@ -1,3 +1,4 @@
+package exceptions;
 //: exceptions/NeverCaught.java
 // Ignoring RuntimeExceptions.
 // {ThrowsException}

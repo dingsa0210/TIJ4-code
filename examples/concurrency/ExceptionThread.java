@@ -1,3 +1,4 @@
+package concurrency;
 //: concurrency/ExceptionThread.java
 // {ThrowsException}
 import java.util.concurrent.*;

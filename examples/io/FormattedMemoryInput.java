@@ -1,3 +1,4 @@
+package io;
 //: io/FormattedMemoryInput.java
 import java.io.*;
 

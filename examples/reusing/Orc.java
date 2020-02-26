@@ -1,5 +1,6 @@
 //: reusing/Orc.java
 // The protected keyword.
+package reusing;
 import static net.mindview.util.Print.*;
 
 class Villain {

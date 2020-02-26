@@ -1,5 +1,6 @@
 //: holding/ForEachCollections.java
 // All collections work with foreach.
+package holding;
 import java.util.*;
 
 public class ForEachCollections {
